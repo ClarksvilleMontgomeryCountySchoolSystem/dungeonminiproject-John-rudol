@@ -1,4 +1,4 @@
-drawbridge_raised = False
+drawbridge_raised = True
 if drawbridge_raised:
     outcome = "Thunder: you can cross."
 else:
